@@ -24,6 +24,7 @@ end
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
+  return Adele.first
 end
 
 def last_student_by_method
